@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre mí
 
-<img align="right" height="260px" alt="Coding GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="260px" alt="Coding GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 💻 Aprendiz de Análisis y Desarrollo de Software
 
@@ -82,6 +82,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sebzx1&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 ---
