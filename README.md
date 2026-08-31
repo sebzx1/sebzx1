@@ -43,33 +43,50 @@ Soy aprendiz de **Análisis y Desarrollo de Software** enfocado en construir sol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,ruby,rails,html,css,mysql,docker,n8n,mongodb,git,github,vscode,linux,bash&perline=8&theme=dark" />
+<img 
+  src="https://skillicons.dev/icons?i=java,js,python,ruby,rails,html,css,mysql,docker,supabase,mongodb,git,github,vscode,linux,bash&perline=8&theme=dark" 
+  alt="Java, JavaScript, Python, Ruby, Rails, HTML, CSS, MySQL, Docker, Supabase, MongoDB, Git, GitHub, VS Code, Linux y Bash" 
+/>
 
 <br/><br/>
 
 <a href="https://railway.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img 
+    src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" 
+    alt="Railway" 
+  />
 </a>
 
 <a href="https://sentry.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
+  <img 
+    src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" 
+    alt="Sentry" 
+  />
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img 
+    src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" 
+    alt="Firebase" 
+  />
 </a>
 
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-</a>
+<br/><br/>
 
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Arquitectura_Software-6C63FF?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arquitectura de Software" />
-</a>
+<img 
+  src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" 
+  alt="REST APIs" 
+/>
 
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/IA_%26_Automatización-00C853?style=for-the-badge&logo=openai&logoColor=white" alt="IA y Automatización" />
-</a>
+<img 
+  src="https://img.shields.io/badge/Arquitectura_Software-6C63FF?style=for-the-badge&logo=archlinux&logoColor=white" 
+  alt="Arquitectura de Software" 
+/>
+
+<img 
+  src="https://img.shields.io/badge/IA_%26_Automatización-00C853?style=for-the-badge&logo=openai&logoColor=white" 
+  alt="IA y Automatización" 
+/>
 
 </div>
 ---
