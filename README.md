@@ -43,7 +43,7 @@ Soy aprendiz de **Análisis y Desarrollo de Software** enfocado en construir sol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,ruby,rails,html,css,mysql,git,github,vscode,linux,bash&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,python,ruby,rails,html,css,mysql,docker,n8n,mongodb,git,github,vscode,linux,bash&perline=8&theme=dark" />
 
 <br/><br/>
 
@@ -72,7 +72,6 @@ Soy aprendiz de **Análisis y Desarrollo de Software** enfocado en construir sol
 </a>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
